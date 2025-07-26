@@ -68,6 +68,12 @@ This is the decoded JSON:
 
 ---
 
+## 📽️ Demo
+
+[Click here to watch the demo](./Demonstration/Demo.mp4)
+
+---
+
 ## 🤝 Author
 
 **Sai Preetham**  
